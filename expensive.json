@@ -1,0 +1,71 @@
+{
+	"WestVillage": {
+		"italian" : ["Rafele Restaurante", "LArtusi", "Palma", "Barbuto", "dell'anima", "Morandi", "Via Carota", "I Sodi ","Lupa", "Babbo"],
+		"japanese" : ["Takashi","Sushi Nakazawa","Omakase Room by Tatsu", "Saikai", "EN Japanese Brasseri", "Kosaka", "DOMODOMO", "Naoki", "Sushi Samba", "MoriMoto", "catch"],
+		"french" : ["Perry St", "Boucherie", "Le Gigot", "Fedora", "The Little Owl","La Ripaille", "La Sirene", "Bagatelle", "BOBO", "Claudette"],
+		"american" : ["33 Greenwich", "Market Table", "Chumley's", "The Little OWl", "Coarse NYC", "Employees Only", "Wallflower", "Hudson Clearwater", "Bespolke Kitchen", "Quality Eats"],
+		"chinese" : ["Decoy", "RedFarm", "Buddakan", "Pinch Chinese", "Jue Lan Club", "Tao Downtown"],
+		"spanish" : ["Tertulia", "Alta", "Salinas", "Socarrat Paella Bar", "Boqueria" ,"Toro"],
+		"cafe" : ["Unlimited Possibilities", "Saint Ambreus West village", "Abington Market", "Satrudays Surf NYC", "MarieBelle", "Society Cafe", "Ralpha-new York", "Village 122", "MerriWeather"],
+		"thai" : ["RedFarm", "Mr. Jones Supper Club"],
+		"indian" : ["Rahi", "Paowalla"],
+		"vietnamese" : [],
+		"greek" : ["Bar Bolonat", "Casa La Femme", "Fig & Olive","Alta"]
+	},
+
+	"Flatiron" : {
+		"italian" : ["Maialino", "Marta", "Giorgios of Gramercy", "Zio Ristorante", " Manzo Ristorante", "Obica Mozzarella Bar Pizza e Cucina", "Osteria del Principe", "fusco", "Italienne", "Novita Restaurant", "Paul& JImmy's", "Mamma Guidara's", "I Trulli", "Trattoria Il Mulino", "Bocca Restaurant & Bar", "Asselina", "Cipriani 23rd st", "A Voce"],
+		"japanese" : ["O Ya", "TEISUI", "Yakiniky Futago", "Roki Le IZakaya", "15 East Restaurant", "SUGARFISH by sushi nozawa", "Hillstone", "Blue Water Grill", "Hanjan"],
+		"french" : ["ABC kitchen", "The NoMad restaurant", "Bouley Test Kitchen", "Eleven Madison Park", "Italliene", "Tocqueville Restuarant", "Le Coq Rico", "Le Restaurant d'Alex", "Boqueria"],
+		"vietnamese" : ["The Pho", "BONMI","Num Pang Kitchen", "Luu's Baguette","Jimmy's House", "Saigon Market", "Republic", "Noodles 28"],
+		"american" : ["Covina", "Gramercy Tavern", "Upland", "ABC kitchen", "The Gander", "Black Barn", "Union Square Cafe", "Maysville", "Hillstone", "Irvington"],
+		"chinese" : ["Jue Lan Club", "Atoboy"],
+		"spanish" : ["Sala One Nine", "Boqueria", "Casa Mono", "Aldea", "ABC Cocina", "Latin American Restaurant", "Raymi", "Latin Beef Kitchen", "Sophie's Cuban Cuisine", "Bar Jamon"],
+		"cafe" : ["Covina", "Union Square Cafe", "Van Leeuwen Coffee Truck", "Society Cafe", "Blank Slate"],
+		"thai" : ["ABCV", "Atoboy", "Thai Vila", "Jue Lan Club"],
+		"greek" : ["Periyali", "Ilili", "Almayass Restaurant NYC", "Barbounia", "Zio Restorante"],
+		"indian" : ["Junoon", "ABCV", "Babu Ji"]
+	},
+
+	"Tribeca" : {
+		"italian" : ["Pepolino Restaurant", "Locanda Verde", "Scalini Fedeli", "Gran Morsi", "Ecco", "Tutto il Giorno", "The Odeon", "Mamo Restaurant", "Petrarca Cucina E Vino", "Osteria Morini"],
+		"japanese" : ["Shigure", "Sushi Azabu", "Ichimura", "Brushstroke", "Takahachi Tribeca Restaurant", "Ninja New York", "DOMODOMO", "Sushi of Gari", "Hirohisa", "Blue Ribbon"],
+		"french" : ["Bouley", "Batard", "Racines", "The Odeon", "MAMO Restaurant", "La Sirene", "Le Coucou", "Balthazar", "Taureau", "LAppart"],
+		"american" : ["American Cut Steakhouse","City Vineyard", "Marc Forgione", "The Bennett", "Little Park", "The Odeon", "Yves", "Tribeca Grill", "Atera", "Batard", "Brandy Library"],
+		"chinese" : ["Mr. Chow", "Macao", "KheYo"],
+		"spanish" : ["Tablao", "Sazon", "Despana", "Estancia 460", "Westside Coffee Shop", "Anejo Tribeca", "Terra Wine Bar", "Darlene", "Sophia's Cuban Cuisine", "Amada"],
+		"cafe" : ["Arcade Bakery", "Galerie de Cafe", "The Wooly Daily", "Cafe Belle", "Baked", "Laughing Man Coffee and Tea","La Colombe Coffee", "Kuro-Obi at Canal Street Market", "Blue Spoon Coffee", "Everyman Espresso"],
+		"thai" : ["kheyo", "Empire", "Macao"],
+		"indian" : ["Tamarind"],
+		"vietnamese" : [],
+		"greek" : []
+	},
+
+	"Chelsea" : {
+		"italian" : ["Pepolino Restaurant", "Locanda Verde", "Scalini Fedeli", "Gran Morsi", "Ecco", "Tutto il Giorno", "The Odeon", "Mamo Restaurant", "Petrarca Cucina E Vino", "Osteria Morini"],
+		"japanese" : ["Shigure", "Sushi Azabu", "Ichimura", "Brushstroke", "Takahachi Tribeca Restaurant", "Ninja New York", "DOMODOMO", "Sushi of Gari", "Hirohisa", "Blue Ribbon"],
+		"french" : ["Bouley", "Batard", "Racines", "The Odeon", "MAMO Restaurant", "La Sirene", "Le Coucou", "Balthazar", "Taureau", "L'Appart"],
+		"american" : ["American Cut Steakhouse","City Vineyard", "Marc Forgione", "The Bennett", "Little Park", "The Odeon", "Yves", "Tribeca Grill", "Atera", "Batard", "Brandy Library"],
+		"chinese" : ["Mr. Chow", "Macao", "Khe-Yo"],
+		"spanish" : ["Tablao", "Sazon", "Despana", "Estancia 460", "Westside Coffee Shop", "Anejo Tribeca", "Terra Wine Bar", "Darlene", "Sophia's Cuban Cuisine", "Amada"],
+		"thai" : ["Blossom", "Buddakan"],
+		"indian" : ["Aroqa", "Blossom"],
+		"vietnamese" : [],
+		"greek" : ["Death Ave", "Mykonos Blue", "Papa Kabab Meditteranean Bistro", "The Hummus and Pita", "Wrapido", "Lemony", "Stix Bar and Grill", "Periyali"]
+		"cafe" : ["Middle Eats", "Van Leeuwen Coffee Truck"]
+	}
+
+	"Tribeca" : {
+		"italian" : ["Del Posto", "Mulino a Vino", "Scarpetta", "Da Umberto", "La Sirena Ristorante", "Cassa Nona", "Crispo", "Il Bastardo"],
+		"japanese" : ["Ushiwakamaru", "Juban", "Naoki", "Morimoto", "Momoya", "Megu", "Kappo Totto", "Sushi Seki-Chelsea"],
+		"french" : ["Mykonos Blue", "periyali", "La Piscine"],
+		"american" : ["The CLub Car at the McKittrick Hotel", "The Red Cat", "Gallow Green", "Rouge Tomate Chelsea", "The Heath", "Motel Morris", "Tipsy Parson", "33 Greenwich", "Kola House", "Fred's Downtown"],
+		"chinese" : ["Buddakan", "Jue Lan Club", "Tao Downtown""Ushiwakamaru", "Juban", "Naoki", "Morimoto", "Momoya", "Megu", "Kappo Totto", "Sushi Seki-Chelsea"],
+		"spanish" : ["Salinas", "Soccarat Paella Bar", "Tia Pol", "El Quijote", "Toro", "Francisco's Centro Vasco","Txikito", "Boqueria", "La Sirena istorante", "Lupulo"],
+		"cafe" : ["Arcade Bakery", "Galerie de Cafe", "The Wooly Daily", "Cafe Belle", "Baked", "Laughing Man Coffee and Tea","La Colombe Coffee", "Kuro-Obi at Canal Street Market", "Blue Spoon Coffee", "Everyman Espresso"],
+		"thai" : ["khe-yo", "Empire", "Macao"],
+		"indian" : ["Tamarind"],
+		"vietnamese" : ["Khe-Yo", "Macao"],
+		"greek" : [""The Greek", "Thalassa", "Antique Garage Tribeca"]
+	}
+}
